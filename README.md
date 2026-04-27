@@ -1,4 +1,3 @@
-# Autonoumous_Cloudresource_simulator
 # CloudScale — Dynamic Auto Scaling Simulation Platform
 
 A full-stack web application that simulates AWS Auto Scaling behavior with real-time monitoring, load testing, and cost analysis — all running locally with zero cloud costs.
